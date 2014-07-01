@@ -1,6 +1,6 @@
 # HEPL : Rich Internet Applications
 
-> Coding conventions
+> Coding guidelines
 
 * * *
   
