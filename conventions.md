@@ -44,7 +44,7 @@ Rien ne sert de coder une méthode qui n'a pas d'implémentation ou d'utilité i
 ### Don't be shy, ask !
 
 Il n'y a pas de honte à demander de l'aide, surtout avant d'attaquer une nouvelle fonctionnalité.  
-Il ne devrait jamais y avoir une portion de code qui ne soit pas couverte par moins de deux personnes.
+Il ne devrait jamais y avoir une portion de code qui ne soit pas couverte par au moins deux personnes.
 
 * * * 
 
