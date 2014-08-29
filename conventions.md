@@ -23,7 +23,7 @@ Tout code rendu dans le cadre de travaux se *doit* de suivre ces conventions et 
 
 * Tous les fichiers sont encodés en UTF-8, sans BOM.
 * Indentation en espaces. 1 niveau d'indentation = 4 espaces.
-* Les commentaires sont importants, mais il faut commenter intelligement : un commentaire inutile prend de la place pour rien.
+* Les commentaires sont importants, mais il faut commenter intelligemment : un commentaire inutile prend de la place pour rien.
 * On nomme les variables en **anglais**, et, si possible, mais facultativement, les commentaires aussi.
 * Les *TODO* sont conseillés, mais il faut les détailler : rien ne dit que c’est vous qui repasserez dessus.
 * Tout projet de code doit être stocké sur un gestionnaire de version comme *Git*, via la plateforme [GitHub](http://github.com).
