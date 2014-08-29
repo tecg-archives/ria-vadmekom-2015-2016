@@ -37,6 +37,8 @@ Rapide remise à niveau sur **jQuery**, sous forme d'un exercice individuel en c
 * Introduction aux commandes de base en shell (dépôt de référence : [tèminal](https://github.com/HEPL-RIA/teminal)), sous forme d'un cours interactif.
 * Introduction rapide à [GruntJS](http://gruntjs.com)
 
+**Travail à domicile :** “[Discover DevTools](https://www.codeschool.com/courses/discover-devtools)” par [CodeSchool](http://codeschool.com). Ça devrait vous prendre une petite heure, et ça va vous apprendre par la pratique à utiliser les DevTools de Chrome.
+
 * * *
 
 #### Scéance 3 : Introduction à Node.js, réalisation d'un *web-scrapper*
