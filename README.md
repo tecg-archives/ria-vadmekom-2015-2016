@@ -1,6 +1,6 @@
 # HEPL : Rich Internet Applications
 
-## vadmekom (2014-2015)
+## vadmekom (2015-2016)
 
 > Everything you need to know before starting our RIA courses...
 
@@ -24,58 +24,65 @@ Le rythme du cours sera donc soutenu. Assurez-vous d'être présent et ne vous l
 
 J'ai bien conscience que le planning ci-dessous est un peu optimiste, mais nous ferons en sorte d'en être le plus proche possible.
 
-#### Séance 1 : jQuery
+#### Séance 1 : remise à niveau javascript & jQuery.
 
-Rapide remise à niveau sur **jQuery**, sous forme d'un exercice individuel en classe (dépôt de référence : [brick-log](https://github.com/HEPL-RIA/brick-log)).
+Rapide remise à niveau sur javascript, sous forme d'un exercice individuel en classe.
 
-**Travail à domicile :** revue de code d'un plugin jQuery (dépôt de référence : [revi-kod](https://github.com/HEPL-RIA/revi-kod)).
-
-* * *
-
-#### Séance 2 : Introduction au Shell & Introduction à GruntJS
-
-* Introduction aux commandes de base en shell (dépôt de référence : [tèminal](https://github.com/HEPL-RIA/teminal)), sous forme d'un cours interactif.
-* Introduction rapide à [GruntJS](http://gruntjs.com)
-
-**Travail à domicile :** “[Discover DevTools](https://www.codeschool.com/courses/discover-devtools)” par [CodeSchool](http://codeschool.com). Ça devrait vous prendre une petite heure, et ça va vous apprendre par la pratique à utiliser les DevTools de Chrome.
+Découverte rapide de jQuery sous forme d'un exercice collectif.  
+Dépôt de référence : [hepl-ria/brick-log](https://github.com/hepl-ria/brick-log).
 
 * * *
 
-#### Séance 3 : Introduction à Node.js, réalisation d'un *web-scrapper*
+#### Séance 2 : Introduction à node.js, réalisation d'un outil en ligne de commande.
 
-* Introduction à la plateforme [node.js](http://nodejs.org) & [npm](https://www.npmjs.org)
-* Réalisation d'un web-scrapper en ligne de commande, sous forme d'un cours interactif (dépôt de référence : [vakyòm](https://github.com/HEPL-RIA/vakyom)).
+**Prérequis du cours :** [installer node.js](https://nodejs.org) sur vos machines.
+
+Présentation d'[eslint](http://eslint.org), définition rapide de nos conventions.
+
+Introduction à node.js, présentation de l'architecture de l'environnement et réalisation d'un outil en ligne de commande : **sòm**.
+
+**Travail personnel :** améliorer l'outil **sòm**.
 
 * * *
 
-#### Séance 4 : Présentation du projet **Chèch Lajan**, analyse, planification & introduction à REST, NoSQL, Redis, MongoDB & Vagrant
+#### Séance 3 : Présentation du projet **analiz**, contribution à un projet open-source.
 
-* Présentation du projet qui va nous occuper sur le reste de l'année, **Chèch Lajan** (dépôt de référence: [Chèch Lajan](https://github.com/HEPL-RIA/chech-lajan))
+Présentation du framework electron & de l'application **analiz** par son créateur.
+
+Présentation de l'écosystème open-source et de la gestion de projet sur github.
+
+Introduction à l'*API de plugin* d'**analiz** et consignes de travail à long terme : réalisation d'un plugin pour analiz.
+
+* * *
+
+#### Séance 4 : Présentation du projet **lékol**, analyse, planification & introduction à REST, NoSQL, Redis, PostgresQL & Docker
+
+* Présentation du projet qui va nous occuper sur le reste de l'année, **lékol**.
 * Analyse & planification du projet.
 * Introduction au concept `REST`
 * Introduction aux concepts `NoSQL`, présentation rapide de [Redis](http://redis.io) & [MongoDB](http://www.mongodb.org).
-* Introduction à [Vagrant](http://www.vagrantup.com).
+* Présentation rapide de [PostgresQL](http://www.postgresql.org)
+* Introduction à [Docker](http://www.docker.com).
 
 * * *
 
-#### Séances 5, 6 & 7 : Réalisation de l'API REST de **Chèch Lajan**
+#### Séances 5, 6 & 7 : Réalisation de l'API REST de **lekol**
 
-Conception de l'API REST de **Chèch Lajan**, sous forme de cours interactifs.
-
-* * *
-
-#### Séance 8 : Présentation de BackboneJS, réalisation des wireframes de la webapp
-
-* Présentation du framework [BackboneJS](http://backbonejs.org).
-* Réalisation des wireframes & scénarios de la webapp.
-
-**Travail à domicile :** réalisation d'un design et son intégration, sur base des wireframes réaliasés ensemble.
+Conception de l'API REST de **lékol**, sous forme de cours interactifs.
 
 * * *
 
-#### Séances 9, 10 & 11 : Réalisation de la webapp de **Chèch Lajan**
+#### Séance 8 : Présentation des frameworks côté client, planification du travail front-end
 
-Réalisation du code client, avec `BackboneJS`, et `jQuery`, suivant les scénarios précédemment réalisés, sur base de vos designs respectifs.
+Présentation des différents frameworks client actuels.
+
+**Travail à domicile :** réalisation d'un design et son intégration, sur base des échanges en classe.
+
+* * *
+
+#### Séances 9, 10 & 11 : Conception du code front-end de **lékol**
+
+Réalisation du code client sur base du framework choisi.
 
 * * *
 
