@@ -66,27 +66,43 @@ Introduction à l'*API de plugin* d'**analiz** et consignes de travail à long t
 
 * * *
 
-#### Séances 5, 6 & 7 : Réalisation de l'API REST de **lekol**
+#### Séances 5 & 6 : Réalisation du code serveure t de l'API REST de **lékol**
 
 Conception de l'API REST de **lékol**, sous forme de cours interactifs.
 
 * * *
 
-#### Séance 8 : Présentation des frameworks côté client, planification du travail front-end
+#### Séance 7 : Code client du mur de **lékol** - Geolocation & AJAX
 
-Présentation des différents frameworks client actuels.
-
-**Travail à domicile :** réalisation d'un design et son intégration, sur base des échanges en classe.
+Mise en place du code client de base pour le mur, utilisation de l'API de géolocalisation.
 
 * * *
 
-#### Séances 9, 10 & 11 : Conception du code front-end de **lékol**
+#### Séance 8 : Code client du mur de **lékol** - Socket.io
 
-Réalisation du code client sur base du framework choisi.
+Réécriture du code AJAX pour utiliser les websockets.
 
 * * *
 
-#### Séance 12 : Conclusion
+#### Séance 9 : Upload de fichier
+
+Code client d'upload de fichier via drag'n'drop, envoi du fichier *via* socket.io, traitement côté serveur.
+
+* * *
+
+#### Séance 10 : Manipulation de l'historique & API externe
+
+Découverte et utilisation de l'API History, requêtage d'une API externe.
+
+* * *
+
+#### Séance 11 : Frameworks clients
+
+Rapide revue et présentation des frameworks clients actuel.
+
+* * *
+
+#### Séance 12 : Dernière séance
 
 Dernière scéance de cours, conclusion de la matière, pistes à suivre, conseils de méthodologie, FAQ et échanges (dépôt de référence : [konpa](https://github.com/leny/konpa)).
 
