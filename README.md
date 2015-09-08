@@ -66,7 +66,7 @@ Introduction à l'*API de plugin* d'**analiz** et consignes de travail à long t
 
 * * *
 
-#### Séances 5 & 6 : Réalisation du code serveure t de l'API REST de **lékol**
+#### Séances 5 & 6 : Réalisation du code serveur et de l'API REST de **lékol**
 
 Conception de l'API REST de **lékol**, sous forme de cours interactifs.
 
